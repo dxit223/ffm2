@@ -1,0 +1,6 @@
+{
+  "name": "Fly Messenger V2",
+  "description": "A production-ready full-stack messaging platform featuring private and group chats, read receipts, typing indicators, file sharing, profile updates, and real-time AI assistant integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
