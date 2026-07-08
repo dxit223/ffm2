@@ -1,0 +1,7 @@
+name = "ffm2"
+main = "dist/server.cjs"
+compatibility_date = "2024-03-01"
+compatibility_flags = [ "nodejs_compat" ]
+
+[site]
+bucket = "./dist"
